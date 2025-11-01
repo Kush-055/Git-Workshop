@@ -1,0 +1,1 @@
+In these workshop we cover something basics of git and github 
